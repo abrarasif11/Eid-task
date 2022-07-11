@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+}
+.banner{
+    background-image: url(hero.png);
+    text-align: center;
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 180px;
+    padding-block-end: 80px;
+    font-size: xx-large;
+    font-weight: 100px;
+    width: 100%;
+    background-size: cover;
+}
+#head{
+    width: 40%;
+    padding-left: 157px;
+}
+#font{
+    width: 30%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 180px;
+    font-size: medium;
+    margin-left: 50px;
+}
+.button{
+    text-decoration: none;
+    background-color: crimson;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    color: white;
+    margin-right: 500px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#font1{
+    font-size: medium;
+    width: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.part1{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+#video{
+    margin-top: 53px;
+    margin-right: 40px;
+    margin-left: 20px;
+    border-radius: 5px solid;
+}
