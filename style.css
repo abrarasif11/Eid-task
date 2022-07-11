@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    font-size: xx-large;
+    font-size: x-large;
 }
 .banner{
     background-image: url(IMG-9923.JPG);
@@ -9,7 +9,7 @@ body{
     padding-right: 5px;
     padding-left: 5px;
     padding-top: 180px;
-    padding-block-end: 80px;
+    padding-block-end: 150px;
     font-size: x-large;
     font-weight: 100px;
     width: 99.5%;
@@ -114,4 +114,97 @@ body{
     margin-top: 10px;
     border-radius: 7px;
     background-color:rgba(236, 205, 210, 0.925);
+}
+.pic1{
+    display: flex;
+    margin-top: 100px;
+    
+}
+#image1{
+    width: 25%;
+    border-radius: 15px;
+    margin-left: 150px;
+}
+#image2{
+    width: 25%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#image3{
+    width: 25%;
+    border-radius: 15px;
+}
+.hd{
+    text-align: center;
+    margin-top: 120px;
+    height: 50%;
+}
+#font4{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#font5{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 25%;
+}
+.post-box{
+    box-shadow: 2px solid gray;
+    border: solid 1px whitesmoke;
+    margin-bottom: 100px;
+    margin-top: 252px;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-bottom: 20px;
+    margin-right: 850px;
+
+}
+#post{
+    border-radius: 10px;
+    margin-right: 50px;
+    width: 30%;
+    height: 60%;
+}
+.button1{
+    color: red;
+}
+.part3{
+    display: flex;
+}
+.zakat{
+    
+    border: solid whitesmoke 1px;
+    margin-right: 25px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    text-align: justify;
+    padding-bottom: 10px; 
+    text-align: center;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 5px;
+    padding-block-end: 20px;
+}
+.part4{
+    display: flex;
+}
+#font6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+footer{
+    background-color: black;
+    color: red;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+#last-font{
+    font-size: x-small;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
 }
